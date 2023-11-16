@@ -1,2 +1,2 @@
-# Shareme-Social-Media-App
-Shareme Social Media App
+# Snapgram-Social-Media-App
+Snapgram Social Media App
